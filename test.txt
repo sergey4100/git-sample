@@ -1,6 +1,4 @@
-Hello Git 123 ! 
+Hello Git 123 Branch ! 
 It's a new line.
-<<<<<<< HEAD
 Add new line. 12345
-=======
->>>>>>> parent of d8c73b7 (Test status)
+
